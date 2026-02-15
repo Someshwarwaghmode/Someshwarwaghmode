@@ -25,7 +25,7 @@
 - 🤖 Experienced with Generative AI & LLM Applications
 - 🔗 Working with LangChain & LangGraph for AI workflow orchestration
 - 🧠 Understanding of Transformers Architecture & Hugging Face Ecosystem
-- 📚 Practical knowledge of NLP concepts (Tokenization, Embeddings, Prompt Engineering)
+- 📚 knowledge of NLP concepts (Tokenization, Embeddings, Prompt Engineering)
 - 🛠️ Building AI-powered applications & chatbot systems
 - 💡 Love solving real-world problems with technology
 - 📈 Focused on becoming Internship-Ready AI & Software Developer
