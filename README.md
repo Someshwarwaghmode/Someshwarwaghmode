@@ -21,12 +21,14 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 BE Computer Engineering Student at **SPPU**
-- 🌾 Building **AgroVada** – Farmers Problem Solving Platform
-- 📚 Creator of **JavaScript Zero To Hero**
-- 🐍 Strong in Python & Data Analytics
 - 📊 Implemented Naïve Bayes & Logistic Regression with Confusion Matrix
+- 🤖 Experienced with Generative AI & LLM Applications
+- 🔗 Working with LangChain & LangGraph for AI workflow orchestration
+- 🧠 Understanding of Transformers Architecture & Hugging Face Ecosystem
+- 📚 Practical knowledge of NLP concepts (Tokenization, Embeddings, Prompt Engineering)
+- 🛠️ Building AI-powered applications & chatbot systems
 - 💡 Love solving real-world problems with technology
-- 📈 Focused on becoming Internship-Ready Developer
+- 📈 Focused on becoming Internship-Ready AI & Software Developer
 
 <br clear="right"/>
 
